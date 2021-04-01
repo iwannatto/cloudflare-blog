@@ -1,8 +1,0 @@
-*~
-
-*.bc
-*.o
-/run-bpf
-
-/.ninja_deps
-/.ninja_log
